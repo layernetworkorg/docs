@@ -3,10 +3,10 @@
 ### Mainnet
 
 * Network name: **LAYER**
-* ChanId: **32344**
+* ChanId: **7665**
 * Gas price: **0 gwei**
 * RPC
   * official RPC: [https://mainnet-rpc.layerscan.org/](https://mainnet-rpc.layerscan.org/)​
-* Explorer: [http://explorer.layerscan.org/](http://explorer.layerscan.org/)​
+* Explorer: [https://layerscan.org/](https://layerscan.org)​
 
-Please refer to [quickstart](https://github.com/fkt20/FAKTNetwork/#using-quickstart) if you wish to run your own node.
+Please refer to [quickstart ](https://github.com/layernetworkorg/LayerNetwork/tree/master/node-example)if you wish to run your own node.
