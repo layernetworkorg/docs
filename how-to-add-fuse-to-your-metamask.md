@@ -8,7 +8,7 @@ Optionally you can add the full parameters:
 
 **Additional**: [https://mainnet-rpc.layerscan.org](https://mainnet-rpc.layerscan.org)  
 **ChainId**: 39656  
-**Explorer**: [https://explorer.layerscan.org](https://explorer.layerscan.org/)  
+**Explorer**: [https://layerscan.org](https://layerscan.org/)  
 **symbol**: LAYER
 {% endhint %}
 

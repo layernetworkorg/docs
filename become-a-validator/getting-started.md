@@ -85,7 +85,7 @@ Use: `0x5c19a95c000000000000000000000000b8ce4a040e8aa33bbe2de62e92851b7d7afd52de
 Wait until the next cycle is started.
 
 {% hint style="success" %}
-You can see that you are validating both in the [health](https://status.layerscan.org/) site and on the [explorer](https://explorer.layerscan.org) site.
+You can see that you are validating both in the [health](https://status.layerscan.org/) site and on the [explorer](https://layerscan.org) site.
 {% endhint %}
 
 For live support, contact us on [Telegram](https://t.me/) or [Discord](https://discord.gg/). Good luck and happy validating!

@@ -31,6 +31,6 @@ Note that if the new validator set transactions fail on mainnet there’s a chan
 
 Example for a successful flow (from 7/6/2020)
 
-1. Consensus.emitInitiateChange transaction on primal - [https://explorer.layerscan.org/tx/0x441e2cb5f4aa20948c51020ebd8f7fba7c33cf909e31c66d0aff4a11e79ce13d](https://explorer.layerscan.org/tx/0x441e2cb5f4aa20948c51020ebd8f7fba7c33cf909e31c66d0aff4a11e79ce13d)
-2. BlockReward.emitRewardedOnCycle transaction on primal - [https://explorer.layerscan.org/tx/0x34cf4ddfc8afa6154e8c0d5f1de3b7d756b1b0517e8f0efd5794bde40983ba64](https://explorer.layerscan.org/tx/0x34cf4ddfc8afa6154e8c0d5f1de3b7d756b1b0517e8f0efd5794bde40983ba64)
+1. Consensus.emitInitiateChange transaction on primal - [https://layerscan.org/tx/0x441e2cb5f4aa20948c51020ebd8f7fba7c33cf909e31c66d0aff4a11e79ce13d](https://layerscan.org/tx/0x441e2cb5f4aa20948c51020ebd8f7fba7c33cf909e31c66d0aff4a11e79ce13d)
+2. BlockReward.emitRewardedOnCycle transaction on primal - [https://layerscan.org/tx/0x34cf4ddfc8afa6154e8c0d5f1de3b7d756b1b0517e8f0efd5794bde40983ba64](https://layerscan.org/tx/0x34cf4ddfc8afa6154e8c0d5f1de3b7d756b1b0517e8f0efd5794bde40983ba64)
 

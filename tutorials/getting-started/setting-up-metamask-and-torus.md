@@ -71,7 +71,7 @@ Click **connect**
 * **New RPC URL:**[ ****https://mainnet-rpc.layerscan.org](https://mainnet-rpc.layerscan.org)
 * **ChainID:** 39656
 * **Symbol:** LAYER
-* **Block Explorer URL:**[ ****https://explorer.layerscan.org](https://explorer.layerscan.org)
+* **Block Explorer URL:**[ ****https://layerscan.org](https://layerscan.org)
 {% endhint %}
 
 After doing so, **do not** **switch** to this new **custom network** just yet. It will be needed **after** you issue your community and tokens, inside the Layer Studio.

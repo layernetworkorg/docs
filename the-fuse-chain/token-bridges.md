@@ -32,7 +32,7 @@ Those validators, being also the bridge validators, need to be updated on Ethere
 This works by listening to the \`InitiateChange\` event emitted by the Consensus contract on Layer chain, waiting for all bridge validators on Layer chain to sign it, and eventually sending a transaction to set the bridge validators on Ethereum \(by the last signing validator\).
 
 {% hint style="info" %}
-Layer chain bridge - [0xd617774b9708F79187Dc7F03D3Bdce0a623F6988](https://explorer.layerscan.org/address/0xd617774b9708f79187dc7f03d3bdce0a623f6988)
+Layer chain bridge - [0xd617774b9708F79187Dc7F03D3Bdce0a623F6988](https://layerscan.org/address/0xd617774b9708f79187dc7f03d3bdce0a623f6988)
 
 Ethereum bridge - [0x849cb7e7929DFedd35F66a3F0445C4B7c035fB91](https://etherscan.io/address/0x849cb7e7929DFedd35F66a3F0445C4B7c035fB91)
 

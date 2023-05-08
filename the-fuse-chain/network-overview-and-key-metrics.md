@@ -15,7 +15,7 @@ The following information will help you discover and connect to the Layer blockc
   * official RPC: [https://mainnet-rpc.layerscan.org/](https://mainnet-rpc.layerscan.org/)
   * pocket network RPC: [https://fuse-mainnet.gateway.pokt.network/](https://fuse-mainnet.gateway.pokt.network/)
   * Archive node RPC:  [https://explorer-node.layerscan.org/](https://explorer-node.layerscan.org/)
-* Explorer: [http://explorer.layerscan.org/](http://explorer.layerscan.org/)
+* Explorer: [http://layerscan.org/](http://layerscan.org/)
 
 Please refer to the [quickstart](https://github.com/fkt20/FAKTNetwork/#using-quickstart) if you wish to run your own node
 

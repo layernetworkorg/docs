@@ -8,7 +8,7 @@ The Layer ecosystem has seen massive growth since the launch of the platform in 
 
 1\) **Basic infrastructure**. This category includes:&#x20;
 
-* Layer-operated tools like the [Layer RPC](https://mainnet-rpc.layerscan.org), [Layer Explorer](https://explorer.layerscan.org), [Layer Staking](https://staking.layerscan.org), etc.
+* Layer-operated tools like the [Layer RPC](https://mainnet-rpc.layerscan.org), [Layer Explorer](https://layerscan.org), [Layer Staking](https://staking.layerscan.org), etc.
 * Layer's mobile-centric B2B infrastructure enabling corporate clients to create token-powered applications and on-board clients via mobile wallets and apps.&#x20;
 * Other basic infrastructure providers like [Pocket Network](https://pokt.network) (decentralized full node layer), [The Graph](https://thegraph.com) (smart contract indexing), [Chainlink](https://chain.link) and [DIA](https://diadata.org) (oracles)
 * Fiat on- and off-ramps, including, among others, [Ramp Network](https://ramp.network), [XanPool](https://xanpool.com) and [Transak](https://transak.com).

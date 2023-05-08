@@ -19,6 +19,6 @@ Please refer to [quickstart](https://github.com/layernetworkorg/LayerNetwork/tre
 
 **Layer Explorer** is the official blockchain explorer for Layer. With this full-featured, open-source explorer you can view transactions, accounts & balances, access data via the API, and read and verify smart contracts.
 
-{% embed url="https://explorer.layerscan.org" %}
+{% embed url="https://layerscan.org" %}
 
 ###

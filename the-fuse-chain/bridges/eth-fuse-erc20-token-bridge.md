@@ -12,11 +12,11 @@ This bridge is two layer bridge. In the base level the  Arbitrary Message Bridge
 
 ## Contracts
 
-Home side of the bridge on the Layer network: [0xc2220646E1E76D5fF3a441eDd9E8EFF0e4A8EF03](https://explorer.layerscan.org/address/0xc2220646E1E76D5fF3a441eDd9E8EFF0e4A8EF03)
+Home side of the bridge on the Layer network: [0xc2220646E1E76D5fF3a441eDd9E8EFF0e4A8EF03](https://layerscan.org/address/0xc2220646E1E76D5fF3a441eDd9E8EFF0e4A8EF03)
 
 Foreign side of the bridge on the Ethereum network: [0xf301d525da003e874DF574BCdd309a6BF0535bb6](https://etherscan.io/address/0xf301d525da003e874DF574BCdd309a6BF0535bb6)
 
-Home side of the AMB bridge on the Layer network: [0x2CA5411c4bf447Cc27CD6E6d1d046f922A27C399](https://explorer.layerscan.org/address/0x2CA5411c4bf447Cc27CD6E6d1d046f922A27C399/transactions)
+Home side of the AMB bridge on the Layer network: [0x2CA5411c4bf447Cc27CD6E6d1d046f922A27C399](https://layerscan.org/address/0x2CA5411c4bf447Cc27CD6E6d1d046f922A27C399/transactions)
 
 Foreign side of the AMB bridge on the Ethereum network: [0x63C47c296B63bE888e9af376bd927C835014039f](https://etherscan.io/address/0x63C47c296B63bE888e9af376bd927C835014039f)
 

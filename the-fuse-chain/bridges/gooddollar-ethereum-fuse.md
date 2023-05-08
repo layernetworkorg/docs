@@ -12,15 +12,15 @@ This bridge is two layer bridge. In the base level the  Arbitrary Message Bridge
 
 ## Contracts
 
-Home side of the bridge on the Layer network: [0xD39021DB018E2CAEadb4B2e6717D31550e7918D0](https://explorer.layerscan.org/address/0xD39021DB018E2CAEadb4B2e6717D31550e7918D0/transactions)
+Home side of the bridge on the Layer network: [0xD39021DB018E2CAEadb4B2e6717D31550e7918D0](https://layerscan.org/address/0xD39021DB018E2CAEadb4B2e6717D31550e7918D0/transactions)
 
 Foreign side of the bridge on the Ethereum network: [0xD5D11eE582c8931F336fbcd135e98CEE4DB8CCB0](https://etherscan.io/address/0xD5D11eE582c8931F336fbcd135e98CEE4DB8CCB0)
 
-GoodDollar token on the Layer network: [0x495d133b938596c9984d462f007b676bdc57ecec](https://explorer.layerscan.org/address/0x495d133B938596C9984d462F007B676bDc57eCEC/transactions)
+GoodDollar token on the Layer network: [0x495d133b938596c9984d462f007b676bdc57ecec](https://layerscan.org/address/0x495d133B938596C9984d462F007B676bDc57eCEC/transactions)
 
 GoodDollar token on the Ethereum network: [0x67c5870b4a41d4ebef24d2456547a03f1f3e094b](https://etherscan.io/address/0x67c5870b4a41d4ebef24d2456547a03f1f3e094b)
 
-Home side of the AMB bridge on the Layer network: [0x2CA5411c4bf447Cc27CD6E6d1d046f922A27C399](https://explorer.layerscan.org/address/0x2CA5411c4bf447Cc27CD6E6d1d046f922A27C399/transactions)
+Home side of the AMB bridge on the Layer network: [0x2CA5411c4bf447Cc27CD6E6d1d046f922A27C399](https://layerscan.org/address/0x2CA5411c4bf447Cc27CD6E6d1d046f922A27C399/transactions)
 
 Foreign side of the AMB bridge on the Ethereum network: [0x63C47c296B63bE888e9af376bd927C835014039f](https://etherscan.io/address/0x63C47c296B63bE888e9af376bd927C835014039f)
 

@@ -30,7 +30,7 @@ Use the “Connect to a wallet” on the right hand top corner to connect your w
 
 ![](../.gitbook/assets/2%20%2814%29.png)
 
-Click on “Transfer” and approve the transaction. Once this transaction is confirmed on-chain, the WETH balance will be moved to the bridge and you will receive the WETH on your address on BSC. The transaction can be tracked on [https://bscscan.com.](https://explorer.layerscan.org/)
+Click on “Transfer” and approve the transaction. Once this transaction is confirmed on-chain, the WETH balance will be moved to the bridge and you will receive the WETH on your address on BSC. The transaction can be tracked on [https://bscscan.com.](https://layerscan.org/)
 
 ![](../.gitbook/assets/3%20%2812%29.png)
 
@@ -50,7 +50,7 @@ Use the “Connect to a wallet” on the right hand top corner to connect your w
 Select WETH from the dropdown menu and enter the amount of WETH you want to transfer from BSC to Layer. Click on “Transfer” and approve the transaction on Metamask. Click on “Approve WETH” and approve the transaction on Metamask.
 
 {% hint style="info" %}
-**Note: The contract address of WETH on BSC is 0x2170ed0880ac9a755fd29b2688956bd959f933f8. If you do not find the token ticker of the token you are trying to bridge from BSC to fuse network, Please find out the right contract address from** [**https://bscscan.com.**](https://explorer.layerscan.org/)\*\*\*\*
+**Note: The contract address of WETH on BSC is 0x2170ed0880ac9a755fd29b2688956bd959f933f8. If you do not find the token ticker of the token you are trying to bridge from BSC to fuse network, Please find out the right contract address from** [**https://bscscan.com.**](https://layerscan.org/)\*\*\*\*
 {% endhint %}
 
 ![](../.gitbook/assets/6%20%289%29.png)
@@ -59,5 +59,5 @@ Select WETH from the dropdown menu and enter the amount of WETH you want to tran
 
 Once the transaction is confirmed on-chain, the “Transfer” button can be clicked and transaction has to be approved, and once this second transaction is confirmed on-chain, the WETH balance on the same address on Layer network will be credited with the WETH tokens.
 
-The updated WETH balance on Layer network can be checked through Layer network block explorer [https://explorer.layerscan.org](https://explorer.layerscan.org/).
+The updated WETH balance on Layer network can be checked through Layer network block explorer [https://layerscan.org](https://layerscan.org/).
 

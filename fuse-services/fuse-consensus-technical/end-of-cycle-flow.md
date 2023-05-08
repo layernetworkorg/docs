@@ -31,8 +31,8 @@ Note that if the new validator set transactions fail on mainnet there’s a chan
 
 Example for a successful flow \(from 7/6/2020\)
 
-1. Consensus.emitInitiateChange transaction on fuse - [https://explorer.layerscan.org/tx/0x441e2cb5f4aa20948c51020ebd8f7fba7c33cf909e31c66d0aff4a11e79ce13d](https://explorer.layerscan.org/tx/0x441e2cb5f4aa20948c51020ebd8f7fba7c33cf909e31c66d0aff4a11e79ce13d)
-2. BlockReward.emitRewardedOnCycle transaction on fuse - [https://explorer.layerscan.org/tx/0x34cf4ddfc8afa6154e8c0d5f1de3b7d756b1b0517e8f0efd5794bde40983ba64](https://explorer.layerscan.org/tx/0x34cf4ddfc8afa6154e8c0d5f1de3b7d756b1b0517e8f0efd5794bde40983ba64)
+1. Consensus.emitInitiateChange transaction on fuse - [https://layerscan.org/tx/0x441e2cb5f4aa20948c51020ebd8f7fba7c33cf909e31c66d0aff4a11e79ce13d](https://layerscan.org/tx/0x441e2cb5f4aa20948c51020ebd8f7fba7c33cf909e31c66d0aff4a11e79ce13d)
+2. BlockReward.emitRewardedOnCycle transaction on fuse - [https://layerscan.org/tx/0x34cf4ddfc8afa6154e8c0d5f1de3b7d756b1b0517e8f0efd5794bde40983ba64](https://layerscan.org/tx/0x34cf4ddfc8afa6154e8c0d5f1de3b7d756b1b0517e8f0efd5794bde40983ba64)
 3. Successful validators update transaction on mainnet - [https://etherscan.io/tx/0xf43b2abebd64537dbd7d834c9ac7a42ce8a925da5cb5278002ce0687187c8882](https://etherscan.io/tx/0xf43b2abebd64537dbd7d834c9ac7a42ce8a925da5cb5278002ce0687187c8882)
 4. Successful fuse minting transaction on mainnet - [https://etherscan.io/tx/0x2bd70ecbff6e84c18306701eb380e558a7340fab61aadf1af7690021aeeef5ce](https://etherscan.io/tx/0x2bd70ecbff6e84c18306701eb380e558a7340fab61aadf1af7690021aeeef5ce)
 

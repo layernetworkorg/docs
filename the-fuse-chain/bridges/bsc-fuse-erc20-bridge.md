@@ -14,11 +14,11 @@ The BSC bridge is a restricted bridge, meaning that only the Layer team can add 
 
 ## Contracts <a id="contracts"></a>
 
-Home side of the bridge on the Layer network: [0x93B477BA32092F5Db932003639DD5d875B2EfC94](https://explorer.layerscan.org/address/0x93B477BA32092F5Db932003639DD5d875B2EfC94/transactions)​‌
+Home side of the bridge on the Layer network: [0x93B477BA32092F5Db932003639DD5d875B2EfC94](https://layerscan.org/address/0x93B477BA32092F5Db932003639DD5d875B2EfC94/transactions)​‌
 
 Foreign side of the bridge on the BSC network: [0xc461e59276a2B03B9ebb1289C2c9Cd020677c3A9](https://bscscan.com/address/0xc461e59276a2B03B9ebb1289C2c9Cd020677c3A9)​‌
 
-Home side of the AMB bridge on the Layer network: [0x1ee6E3E3d2DE779858728E157B3B9C488bA7b706](https://explorer.layerscan.org/address/0x1ee6E3E3d2DE779858728E157B3B9C488bA7b706/transactions)​‌
+Home side of the AMB bridge on the Layer network: [0x1ee6E3E3d2DE779858728E157B3B9C488bA7b706](https://layerscan.org/address/0x1ee6E3E3d2DE779858728E157B3B9C488bA7b706/transactions)​‌
 
 Foreign side of the AMB bridge on the BSC network: [0x3A5A320a2f98a3Fe39c9040e7e3E9caA7F0D5bd6](https://bscscan.com/address/0x3A5A320a2f98a3Fe39c9040e7e3E9caA7F0D5bd6)​‌
 

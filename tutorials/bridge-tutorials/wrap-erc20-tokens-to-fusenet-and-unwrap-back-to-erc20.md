@@ -64,7 +64,7 @@ This step basically is to approve your wallet to interact with the USDT token co
 
 Please go to token contract on Fusenet explorer via link below.
 
-https://explorer.layerscan.org/address/0xFaDbBF8Ce7D5b7041bE672561bbA99f79c532e10/write\_proxy
+https://layerscan.org/address/0xFaDbBF8Ce7D5b7041bE672561bbA99f79c532e10/write\_proxy
 
 ![](../../.gitbook/assets/4%20%286%29.png)
 
@@ -85,7 +85,7 @@ Click on **“Write”** and approve the transaction on your Metamask wallet and
 
 Navigate to Migrator contract on Fusenet using the link below
 
-[https://explorer.layerscan.org/address/0xc2220646E1E76D5fF3a441eDd9E8EFF0e4A8EF03/write\_proxy](https://explorer.layerscan.org/address/0xc2220646E1E76D5fF3a441eDd9E8EFF0e4A8EF03/write_proxy)
+[https://layerscan.org/address/0xc2220646E1E76D5fF3a441eDd9E8EFF0e4A8EF03/write\_proxy](https://layerscan.org/address/0xc2220646E1E76D5fF3a441eDd9E8EFF0e4A8EF03/write_proxy)
 
 Click on **“Write as Proxy”** and then on **“Connect to Metamask”** \(If you have connected Metamask previously no need to connect again\). Sign in through your Metamask wallet.
 
