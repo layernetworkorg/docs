@@ -1,12 +1,12 @@
 # Layer Assembly
 
-Layer Assembly is a governance body formed from particularly active members of the Layer community. Its formation is the first step in transitioning full governance and ownership over the Layer platform to the community. &#x20;
+Layer Assembly is a governance body formed from particularly active members of the Layer community. Its formation is the first step in transitioning full governance and ownership over the Layer platform to the community.
 
 Currently, Layer Assembly consists of five Layer ecosystem members independent from Layer Foundation who have shown consistent dedication and commitment to the project, and already have a voice within the community.
 
-Layer Assembly's **current role includes the following**:&#x20;
+Layer Assembly's **current role includes the following**:
 
-* taking over the control over the [Layer Forum](https://forum.prmscan.org/) community discussion platform;
+* taking over the control over the Layer Forum community discussion platform;
 * implementing the Snapshot voting mechanism on Layer; and
 * managing the Community Token Pool.
 
@@ -14,7 +14,7 @@ Layer Assembly's **current role includes the following**:&#x20;
 
 Layer Assembly's budget will be initially constituted by the **Community Token Pool**. Each month, **200,000 LAYER** will be allocated to it from the Layer Bootstrap Pool (discussed [here](https://docs.prmscan.org/general/fuse-token/fuse-supply-and-current-distribution)).
 
-Layer Assembly will regularly distribute the Community Token Pool funds to finance grants, bounties, marketing, and other initiatives designed to serve communities building on the platform and drive innovation. &#x20;
+Layer Assembly will regularly distribute the Community Token Pool funds to finance grants, bounties, marketing, and other initiatives designed to serve communities building on the platform and drive innovation.
 
 ## Current Assembly members
 
@@ -22,13 +22,13 @@ Layer Assembly will regularly distribute the Community Token Pool funds to finan
 
 _**Council Chairman**_
 
-> Rob is a software developer and business operations expert with over 20 years of experience. He runs [Fuseprime](https://fuseprime.com/)**,** an independent organization that was one of the first validators on Layer, and has been heavily involved in Layer community management and strategic project development since 2019.
+> Rob is a software developer and business operations expert with over 20 years of experience. He runs Fuseprime**,** an independent organization that was one of the first validators on Layer, and has been heavily involved in Layer community management and strategic project development since 2019.
 
 ### **2. Luc Lammers** <a href="#1b91" id="1b91"></a>
 
 _**Council Member, Business & Marketing**_
 
-> [Luc](https://www.luclammers.com/) **** is a business development expert, SaaS leader, and startup enthusiast. He has been a committed member of the Layer ecosystem since mid-2020 and brings a depth of growth-oriented experience to the team.
+> Luc \*\*\*\* is a business development expert, SaaS leader, and startup enthusiast. He has been a committed member of the Layer ecosystem since mid-2020 and brings a depth of growth-oriented experience to the team.
 
 ### **3. Lucas @ Layer Core** <a href="#2105" id="2105"></a>
 
@@ -48,10 +48,8 @@ _**Council Member, Business & Technology**_
 
 > Jan has over 10 years of business and software development experience and currently serves as CTO and co-founder of an Augmented Reality platform designed to drive customer loyalty and boost sales. Having joined the Layer ecosystem more recently in 2021, Jan has shown an enormous amount of commitment, providing support and feedback across the various different technologies that we are building.
 
-
-
 ### **6. Maor Stamati** <a href="#b624" id="b624"></a>
 
 _**Council Member**_
 
-> Maor is a software developer, a long-time active participant of the Layer community and a co-founder of Flambu.&#x20;
+> Maor is a software developer, a long-time active participant of the Layer community and a co-founder of Flambu.
