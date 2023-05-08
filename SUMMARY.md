@@ -65,11 +65,7 @@
 
 ## Links
 
-* [Discord](https://discord.com/medifakt)
-* [Facebook](https://www.facebook.com/)
-* [GitHub](https://github.com/PrimalDev)
-* [LinkedIn](https://www.linkedin.com/company/medifakt/)
-* [Medium](https://medium.com/@medifakt)
-* [Telegram](https://t.me/)
-* [Twitter](https://twitter.com/)
-* [YouTube](https://www.youtube.com/channel/UC7NaJ0UhmyHi5MvZSk61akA)
+* [GitHub](https://github.com/layernetworkorg)
+* [Telegram](https://t.me/LayerNetwork)
+* [Twitter](https://twitter.com/Lyrnetwork)
+* [Docs](https://docs.layerscan.org)
