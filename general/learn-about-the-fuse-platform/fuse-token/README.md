@@ -5,7 +5,7 @@ The LAYER token is the native currency of the Layer blockchain and platform, jus
 ## LAYER utility:
 
 * **Transaction fees** Being the native currency on the Layer blockchain, LAYER is required to pay fees to the network in order to approve transactions.
-* **Validation** Token holders can stake Layer to become a validator. The minimal staking requirement is 100K. The network is growing, currently there are 60 validators. ([https://status.prmscan.org/](https://status.prmscan.org/))
+* **Validation** Token holders can stake Layer to become a validator. The minimal staking requirement is 100K. The network is growing, currently there are 60 validators. ([https://status.layerscan.org/](https://status.layerscan.org/))
 * **Voting** Validators vote on protocol changes with their staked LAYER. Which means validators with higher amounts of Layer staked can have a bigger vote on network upgrades and governance changes (until phase 2 where delegation is activated)
 * **Staking (for delegators)** Any LAYER holder can choose one or more validators to delegate any amount of LAYER they wish. They receive a share of the Layer block rewards proportionate to the share of their stake in the total stake, minus the minimum 15% fee paid to the validator(s).
 * **Payments** As LAYER is the native currency on Layer, sending it does not require interactions with smart contracts. Thus, LAYER transfers are potentially faster and less costly in terms of transaction fees.
@@ -34,8 +34,8 @@ The ongoing liquidity rewards programs on DEXes can be discovered [here](https:/
 
 ### Other ways of obtaining LAYER
 
-From time to time, the Layer team uses LAYER to pay rewards to the members of the community for various forms of participation and community engagement. The best way to stay up-to-date about these opportunities is to follow Layer's [social channels](https://docs.prmscan.org/general/community).
+From time to time, the Layer team uses LAYER to pay rewards to the members of the community for various forms of participation and community engagement. The best way to stay up-to-date about these opportunities is to follow Layer's [social channels](https://docs.layerscan.org/general/community).
 
-The LAYER token is also used to power Layer grants and bounties. Please consult the [Grants and Bounties](https://docs.prmscan.org/general/things-you-can-do-on-fuse/grants-and-bounties) section for more details.
+The LAYER token is also used to power Layer grants and bounties. Please consult the [Grants and Bounties](https://docs.layerscan.org/general/things-you-can-do-on-fuse/grants-and-bounties) section for more details.
 
 \_\_

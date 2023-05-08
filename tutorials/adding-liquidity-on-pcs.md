@@ -8,7 +8,7 @@ description: We will learn how to add liquidity on LAYER-BNB pair on Pancakeswap
 
 ·        You should be connected to Binance smart chain RPC. \([Tutorial link](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain)\)
 
-·        BNB and LAYER should be on Binance smart chain network. To learn how to bridge them from Layer network to BSC using Fuseswap this [tutorial](https://docs.prmscan.org/the-fuse-chain/token-bridges/transfer-fuse-using-bridge-on-fuseswap).
+·        BNB and LAYER should be on Binance smart chain network. To learn how to bridge them from Layer network to BSC using Fuseswap this [tutorial](https://docs.layerscan.org/the-fuse-chain/token-bridges/transfer-fuse-using-bridge-on-fuseswap).
 
 {% hint style="info" %}
 Note: Make sure you know about [impermanent loss](https://academy.binance.com/en/articles/impermanent-loss-explained) before adding liquidity to a pool.
@@ -32,6 +32,6 @@ Click on “Liquidity” and then on “Add liquidity”. Select the LAYER token
 Click on “Supply” and double check the details on the popup. Once done approve the transaction on Metamask. Once the transaction is approve you will see the amount of LP tokens you receive for the liquidity provided on LAYER-BNB pair as shown below.
 
 ![](../.gitbook/assets/image%20%2811%29.png)
-prmscan.org
+layerscan.org
 You can stake the LP tokens on rewards.fuse.io platform to earn more LAYER tokens.
 

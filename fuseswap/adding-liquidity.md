@@ -7,7 +7,7 @@ description: We will learn on how to add liquidity to Fuseswap on LAYER/USDC pai
 **Prerequisites:**
 
 * You should be connected to Layer RPC.
-* USDC and LAYER should be on Layer network. To learn how to transfer them to Layer network using Fuseswap via Bridge please go through this [**tutorial**](https://docs.prmscan.org/the-fuse-chain/token-bridges/transfer-fuse-using-bridge-on-fuseswap).
+* USDC and LAYER should be on Layer network. To learn how to transfer them to Layer network using Fuseswap via Bridge please go through this [**tutorial**](https://docs.layerscan.org/the-fuse-chain/token-bridges/transfer-fuse-using-bridge-on-fuseswap).
 
 **Step 1:**
 
@@ -32,7 +32,7 @@ Click on **“Approve USDC”** and confirm the transaction through your wallet.
 
 \(Note: If this is the first time you are providing liquidity on Fuseswap using the above pairs you will have to approve the spend transaction.\)
 
-Once the transaction is confirmed on-chain click on **“Supply”** and approve the transaction. You will receive the liquidity pool tokens on your wallet which can be checked under tokens through [www.explorer.prmscan.org](https://explorer.prmscan.org/) on your wallet address.
+Once the transaction is confirmed on-chain click on **“Supply”** and approve the transaction. You will receive the liquidity pool tokens on your wallet which can be checked under tokens through [www.explorer.layerscan.org](https://explorer.layerscan.org/) on your wallet address.
 
 Navigating to **“Pool”** on Fuseswap will also show you list of token pairs with statistics for which you have provided liquidity and other options like add/remove liquidity for that particular token pair as shown below.
 

@@ -4,7 +4,7 @@
 
 **Discord**: [https://discord.com/invite/jpPMeSZ](https://discord.com/invite/jpPMeSZ)&#x20;
 
-**Layer Forum**: [https://forum.prmscan.org/](https://forum.prmscan.org/)
+**Layer Forum**: [https://forum.layerscan.org/](https://forum.layerscan.org/)
 
 ### Public Telegram groups
 

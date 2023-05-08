@@ -62,11 +62,11 @@ This step basically is to approve your wallet to interact with the USDT token co
 
 Please go to token contract on Fusenet explorer via link below.
 
-https://explorer.prmscan.org/address/0xFaDbBF8Ce7D5b7041bE672561bbA99f79c532e10/write\_proxy
+https://explorer.layerscan.org/address/0xFaDbBF8Ce7D5b7041bE672561bbA99f79c532e10/write\_proxy
 
 ![](../../.gitbook/assets/4%20%286%29.png)
 
-Make sure that the network is LAYER network. If you have not added Layer network please follow the instructions [here](https://docs.prmscan.org/the-fuse-studio/getting-started/how-to-add-fuse-to-your-metamask).
+Make sure that the network is LAYER network. If you have not added Layer network please follow the instructions [here](https://docs.layerscan.org/the-fuse-studio/getting-started/how-to-add-fuse-to-your-metamask).
 
 Click on **“Connect to Metamask”** and sign in to your wallet through Metamask.
 
@@ -83,7 +83,7 @@ Click on **“Write”** and approve the transaction on your Metamask wallet and
 
 Navigate to Migrator contract on Fusenet using the link below
 
-[https://explorer.prmscan.org/address/0xc2220646E1E76D5fF3a441eDd9E8EFF0e4A8EF03/write\_proxy](https://explorer.prmscan.org/address/0xc2220646E1E76D5fF3a441eDd9E8EFF0e4A8EF03/write_proxy)
+[https://explorer.layerscan.org/address/0xc2220646E1E76D5fF3a441eDd9E8EFF0e4A8EF03/write\_proxy](https://explorer.layerscan.org/address/0xc2220646E1E76D5fF3a441eDd9E8EFF0e4A8EF03/write_proxy)
 
 Click on **“Write as Proxy”** and then on **“Connect to Metamask”** \(If you have connected Metamask previously no need to connect again\). Sign in through your Metamask wallet.
 

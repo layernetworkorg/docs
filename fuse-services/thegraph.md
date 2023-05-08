@@ -23,19 +23,19 @@ Historic price and stats of the FuseSwap DEX
 
 On TheGraph: [https://thegraph.com/explorer/subgraph/fuseio/fuseswap](https://thegraph.com/explorer/subgraph/fuseio/fuseswap)
 
-on Layer graph-node:  [https://thegraph.prmscan.org/subgraphs/name/faktchain/fuseswap](https://thegraph.prmscan.org/subgraphs/name/faktchain/fuseswap)
+on Layer graph-node:  [https://thegraph.layerscan.org/subgraphs/name/faktchain/fuseswap](https://thegraph.layerscan.org/subgraphs/name/faktchain/fuseswap)
 
 ### Layer Consensus
 
 on TheGraph: [https://thegraph.com/explorer/subgraph/fuseio/fuse-consensus](https://thegraph.com/explorer/subgraph/fuseio/fuse-consensus)
 
-on Layer graph-node: [https://thegraph.prmscan.org/subgraphs/name/faktchain/fuse-consensus/graphql](https://thegraph.prmscan.org/subgraphs/name/faktchain/fuse-consensus/graphql)
+on Layer graph-node: [https://thegraph.layerscan.org/subgraphs/name/faktchain/fuse-consensus/graphql](https://thegraph.layerscan.org/subgraphs/name/faktchain/fuse-consensus/graphql)
 
 ### Layer Blocks
 
 Block data of the Layer
 
-on Layer graph-node: [https://thegraph.prmscan.org/subgraphs/name/faktchain/fuse-blocks/graphql](https://thegraph.prmscan.org/subgraphs/name/faktchain/fuse-blocks/graphql)
+on Layer graph-node: [https://thegraph.layerscan.org/subgraphs/name/faktchain/fuse-blocks/graphql](https://thegraph.layerscan.org/subgraphs/name/faktchain/fuse-blocks/graphql)
 
 ### Layer Entities
 
@@ -43,11 +43,11 @@ Businesses and other entities on the Layer
 
 One TheGraph: [https://thegraph.com/explorer/subgraph/fuseio/fuse-entities](https://thegraph.com/explorer/subgraph/fuseio/fuse-entities)
 
-on Layer graph-node:  [https://thegraph.prmscan.org/subgraphs/name/faktchain/fuse-entities/graphql](https://thegraph.prmscan.org/subgraphs/name/faktchain/fuse-entities/graphql)
+on Layer graph-node:  [https://thegraph.layerscan.org/subgraphs/name/faktchain/fuse-entities/graphql](https://thegraph.layerscan.org/subgraphs/name/faktchain/fuse-entities/graphql)
 
 ### Layer Bridge
 
 List of tokens bridged to the Layer network.
 
-on Layer graph-node: [https://thegraph.prmscan.org/subgraphs/name/faktchain/fuse-ethereum-bridge/graphql](https://thegraph.prmscan.org/subgraphs/name/faktchain/fuse-ethereum-bridge/graphql)
+on Layer graph-node: [https://thegraph.layerscan.org/subgraphs/name/faktchain/fuse-ethereum-bridge/graphql](https://thegraph.layerscan.org/subgraphs/name/faktchain/fuse-ethereum-bridge/graphql)
 

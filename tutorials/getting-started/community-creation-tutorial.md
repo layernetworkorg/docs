@@ -7,9 +7,9 @@ description: >-
 
 # Community creation tutorial
 
-Make sure you are connected to the Layer network on your Metamask wallet before creating the community. Learn how to add Layer network to Metamask using [this](https://docs.prmscan.org/the-fuse-studio/getting-started/how-to-add-fuse-to-your-metamask) tutorial.
+Make sure you are connected to the Layer network on your Metamask wallet before creating the community. Learn how to add Layer network to Metamask using [this](https://docs.layerscan.org/the-fuse-studio/getting-started/how-to-add-fuse-to-your-metamask) tutorial.
 
-Navigate to https://studio.prmscan.org/ and click on **“Login”** at the right hand top corner as shown below. Use your Gmail account to Sign in.
+Navigate to https://studio.layerscan.org/ and click on **“Login”** at the right hand top corner as shown below. Use your Gmail account to Sign in.
 
 ![](../../.gitbook/assets/0%20%289%29.png)
 

@@ -24,7 +24,7 @@ Click on **“Bridge”**, Select **“LAYER”** from dropdown and enter the am
 
 ![](../../.gitbook/assets/2%20%289%29.png)
 
-Once the transaction is confirmed on chain, the **“Transfer”** can be clicked and transaction has to be approved. Once this second transaction is confirmed onchain the LAYER balance in the same address on Layer network will have the updated balance of LAYER which can be checked through [www.explorer.prmscan.org](http://www.explorer.prmscan.org/). 
+Once the transaction is confirmed on chain, the **“Transfer”** can be clicked and transaction has to be approved. Once this second transaction is confirmed onchain the LAYER balance in the same address on Layer network will have the updated balance of LAYER which can be checked through [www.explorer.layerscan.org](http://www.explorer.layerscan.org/). 
 
 ![](../../.gitbook/assets/3%20%288%29.png)
 

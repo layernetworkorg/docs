@@ -92,7 +92,7 @@ Unmarshal is a cross-chain platform for streamlined indexing and quering of DeFi
 
 ## Infrastructure/developer tools
 
-### [Layer Studio](https://studio.prmscan.org)
+### [Layer Studio](https://studio.layerscan.org)
 
 Layer Studio is a platform for issuing tokens and creating payment-focused communities around them and managing those. It enables the issuance of tokens and the creation of their associated communities in both a simplified \(no coding\) mode via the Studio website, and a more technical mode using the platform's API.
 
@@ -118,11 +118,11 @@ FuseSwap is the first Layer-native AMM-based decentralized exchange \(DEX\) base
 
 Layer Lending Network is the first decentralized lending network on Layer developed in collaboration with Ola Finance and running on top of the Ola protocol.
 
-### [Layer Rewards](https://rewards.prmscan.org)
+### [Layer Rewards](https://rewards.layerscan.org)
 
 Layer Rewards is a cross-platform gateway for enabling users to conveniently participate in yield farming programs run by Layer. It currently supports yield farming programs on Layer, Ethereum and Binance Smart Chain.  
 
-### [Layer Staking](https://staking.prmscan.org)
+### [Layer Staking](https://staking.layerscan.org)
 
 Layer Staking is a platform created by the Layer team to make it easier for LAYER token holders to delegate their tokens to the network validators of their choice. 
 

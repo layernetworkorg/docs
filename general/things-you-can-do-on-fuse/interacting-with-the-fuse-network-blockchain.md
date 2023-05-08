@@ -2,7 +2,7 @@
 
 **Adding Layer RPC**:&#x20;
 
-Please refer to the guide [here](https://tutorials.prmscan.org/tutorials/network-tutorials/adding-fuse-network-to-metamask).
+Please refer to the guide [here](https://tutorials.layerscan.org/tutorials/network-tutorials/adding-fuse-network-to-metamask).
 
 
 

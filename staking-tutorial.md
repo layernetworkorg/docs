@@ -10,7 +10,7 @@ How to Stake LAYER:
 
 **Step 1:**
 
-Navigate to staking.prmscan.org and login to your wallet through metamask. Make sure you are on Layer network. If you are not please follow the instructions [**here**](https://docs.prmscan.org/the-fuse-studio/getting-started/how-to-add-fuse-to-your-metamask).
+Navigate to staking.layerscan.org and login to your wallet through metamask. Make sure you are on Layer network. If you are not please follow the instructions [**here**](https://docs.layerscan.org/the-fuse-studio/getting-started/how-to-add-fuse-to-your-metamask).
 
 ![](.gitbook/assets/0%20%284%29.png)
 

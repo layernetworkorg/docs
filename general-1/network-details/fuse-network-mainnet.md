@@ -10,10 +10,10 @@
 * ChanId: **32344**
 * Gas price: **0 gwei**
 * RPC
-  * official RPC: [https://mainnet-rpc.prmscan.org/](https://mainnet-rpc.prmscan.org/)​
+  * official RPC: [https://mainnet-rpc.layerscan.org/](https://mainnet-rpc.layerscan.org/)​
   * pocket network RPC: [https://fuse-mainnet.gateway.pokt.network/v1/lb/6075e9510e2a131ca026e10d](https://fuse-mainnet.gateway.pokt.network/v1/lb/6075e9510e2a131ca026e10d)​
-  * Archive node RPC: [https://explorer-node.prmscan.org/](https://explorer-node.prmscan.org/)​
-* Explorer: [http://explorer.prmscan.org/](http://explorer.prmscan.org/)​
+  * Archive node RPC: [https://explorer-node.layerscan.org/](https://explorer-node.layerscan.org/)​
+* Explorer: [http://explorer.layerscan.org/](http://explorer.layerscan.org/)​
 
 Please refer to [quickstart](https://github.com/fkt20/FAKTNetwork/#using-quickstart) if you wish to run your own node.
 
@@ -21,6 +21,6 @@ Please refer to [quickstart](https://github.com/fkt20/FAKTNetwork/#using-quickst
 
 **Layer Explorer** is the official blockchain explorer for Layer. With this full-featured, open-source explorer you can view transactions, accounts & balances, access data via the API, and read and verify smart contracts.
 
-{% embed url="https://explorer.prmscan.org" %}
+{% embed url="https://explorer.layerscan.org" %}
 
 ###

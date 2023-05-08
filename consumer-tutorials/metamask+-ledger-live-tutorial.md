@@ -48,5 +48,5 @@ Once the device bridge is opened, go back to Metamask and select the Account \(a
 
 You will be logged in to the address you selected and now you can change the network to “Layer network” and perform the transactions on Layer network through your Ledger device.
 
-Note: To learn how to add Layer RPC follow [this link.](https://docs.prmscan.org/the-fuse-studio/getting-started/how-to-add-fuse-to-your-metamask)
+Note: To learn how to add Layer RPC follow [this link.](https://docs.layerscan.org/the-fuse-studio/getting-started/how-to-add-fuse-to-your-metamask)
 

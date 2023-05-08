@@ -6,13 +6,13 @@ Currently, Layer Assembly consists of five Layer ecosystem members independent f
 
 Layer Assembly's **current role includes the following**: 
 
-* taking over the control over the [Layer Forum](https://forum.prmscan.org/) community discussion platform;
+* taking over the control over the [Layer Forum](https://forum.layerscan.org/) community discussion platform;
 * implementing the Snapshot voting mechanism on Layer; and
 * managing the Community Token Pool.
 
 ## Community Token Pool
 
-Layer Assembly's budget will be initially constituted by the **Community Token Pool**. Each month, **200,000 LAYER** will be allocated to it from the Layer Bootstrap Pool \(discussed [here](https://docs.prmscan.org/general/fuse-token/fuse-supply-and-current-distribution)\).
+Layer Assembly's budget will be initially constituted by the **Community Token Pool**. Each month, **200,000 LAYER** will be allocated to it from the Layer Bootstrap Pool \(discussed [here](https://docs.layerscan.org/general/fuse-token/fuse-supply-and-current-distribution)\).
 
 Layer Assembly will regularly distribute the Community Token Pool funds to finance grants, bounties, marketing, and other initiatives designed to serve communities building on the platform and drive innovation.  
 

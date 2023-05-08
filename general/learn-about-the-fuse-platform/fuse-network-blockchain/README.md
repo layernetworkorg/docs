@@ -4,9 +4,9 @@
 
 Layer is the decentralized EVM-compatible public blockchain that powers the Layer platform and ecosystem. It is fully compatible with Ethereum meaning that any smart contract that can be deployed on the latter can also run on top of Layer.
 
-The Layer blockchain uses a variant of delegated Proof of Stake (dPoS) for achieving [consensus](https://docs.prmscan.org/general/fuse-network-blockchain/fuse-consensus). The consensus is secured by a significant number of independent validators, only one of which is run by the Layer core team.
+The Layer blockchain uses a variant of delegated Proof of Stake (dPoS) for achieving [consensus](https://docs.layerscan.org/general/fuse-network-blockchain/fuse-consensus). The consensus is secured by a significant number of independent validators, only one of which is run by the Layer core team.
 
-Validators are also responsible for the most important type of governance on Layer, namely, adopting the network protocol changes via [Layer Improvement Proposals](https://docs.prmscan.org/general/fips) (FIPs). 
+Validators are also responsible for the most important type of governance on Layer, namely, adopting the network protocol changes via [Layer Improvement Proposals](https://docs.layerscan.org/general/fips) (FIPs). 
 
 The native token of the network is called LAYER. New LAYER tokens are issued with every added block and are also use to pay for gas, just like ETH on Ethereum. 
 

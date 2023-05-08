@@ -16,13 +16,13 @@ The contract is called an "inverse-native" bridge, because the home and foreign 
 
 Home side of the bridge on the BSC network: [0x51849F05090b222FFc329DC8825de0D7e26F84A1](https://bscscan.com/address/0x51849F05090b222FFc329DC8825de0D7e26F84A1)​‌
 
-Foreign side of the bridge on the Layer network: [0xA3C59198c10cB1ba9A3Ab924A23253072b393f25](https://explorer.prmscan.org/address/0xA3C59198c10cB1ba9A3Ab924A23253072b393f25)​‌
+Foreign side of the bridge on the Layer network: [0xA3C59198c10cB1ba9A3Ab924A23253072b393f25](https://explorer.layerscan.org/address/0xA3C59198c10cB1ba9A3Ab924A23253072b393f25)​‌
 
-BNB token on the Layer network: [0x6acb34b1Df86E254b544189Ec32Cf737e2482058](https://explorer.prmscan.org/address/0x6acb34b1Df86E254b544189Ec32Cf737e2482058/transactions)​‌
+BNB token on the Layer network: [0x6acb34b1Df86E254b544189Ec32Cf737e2482058](https://explorer.layerscan.org/address/0x6acb34b1Df86E254b544189Ec32Cf737e2482058/transactions)​‌
 
 Home side of the AMB bridge on the BSC network: [0x3A5A320a2f98a3Fe39c9040e7e3E9caA7F0D5bd6](https://bscscan.com/address/0x3A5A320a2f98a3Fe39c9040e7e3E9caA7F0D5bd6)​‌
 
-Foreign side of the AMB bridge on the Layer network: [0x1ee6E3E3d2DE779858728E157B3B9C488bA7b706](https://explorer.prmscan.org/address/0x1ee6E3E3d2DE779858728E157B3B9C488bA7b706)​‌
+Foreign side of the AMB bridge on the Layer network: [0x1ee6E3E3d2DE779858728E157B3B9C488bA7b706](https://explorer.layerscan.org/address/0x1ee6E3E3d2DE779858728E157B3B9C488bA7b706)​‌
 
 ## Source Code <a id="source-code"></a>
 

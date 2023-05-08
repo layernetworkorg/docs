@@ -12,7 +12,7 @@ Remix also supports testing, debugging and deploying of smart contracts and much
 
  **Pre-requisites:**
 
-Since we interact with remix using Metamask, you need to change the network to Layer network by adding a custom RPC. Please follow the steps in [this tutorial](https://docs.prmscan.org/the-fuse-studio/getting-started/how-to-add-fuse-to-your-metamask) to do that.
+Since we interact with remix using Metamask, you need to change the network to Layer network by adding a custom RPC. Please follow the steps in [this tutorial](https://docs.layerscan.org/the-fuse-studio/getting-started/how-to-add-fuse-to-your-metamask) to do that.
 
 You need to have a small balance of LAYER on the Fusenet wallet you are using which will be used as Gas for the transactions.
 

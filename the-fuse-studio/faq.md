@@ -23,19 +23,19 @@ _Fuse provides three separate layers of technology, all playing an essential rol
 
 **Layer** is a DPOS blockchain run by a network of validators allowing for fast, low cost and secure transactions to all users on the network. 
 
-[Learn more about Layer](https://docs.prmscan.org/become-a-validator/how-to-become-a-validator)
+[Learn more about Layer](https://docs.layerscan.org/become-a-validator/how-to-become-a-validator)
 
 #### **Layer 2**
 
 **Layer Studio** is an easy to use tool that allows entrepreneurs and community leaders to easily customize their currency and wallet with various plugins for extra features and utilities.   
   
-****[Learn more about Layer Studio](https://docs.prmscan.org/the-fuse-studio/overview)
+****[Learn more about Layer Studio](https://docs.layerscan.org/the-fuse-studio/overview)
 
 #### **Layer 3**
 
 **Layer wallet** is an easy to use mobile application that anyone can download and join of the any of the thousands of micro-economies running on Layer. 
 
-[Learn more about Layer wallet](https://docs.prmscan.org/the-mobile-wallet/overview)  
+[Learn more about Layer wallet](https://docs.layerscan.org/the-mobile-wallet/overview)  
 ****
 
 ![](../.gitbook/assets/stack-faq.jpg)
@@ -67,11 +67,11 @@ Some other use cases are:
 * Making stable coins more accessible
 * Integrate Defi
 
-Check out our featured live micro-economies launched on Layer: [https://studio.prmscan.org/view/communities](https://studio.prmscan.org/view/communities)
+Check out our featured live micro-economies launched on Layer: [https://studio.layerscan.org/view/communities](https://studio.layerscan.org/view/communities)
 
 ## **What is the purpose of the Layer token?** 
 
-The Layer token aka LAYER is the internal currency of the Layer.  Those validating the network are paid in LAYER. This aligns the incentives between the validators and the network users. Learn more about LAYER tokenomics: [https://docs.prmscan.org/the-fuse-chain/fuse-token](https://docs.prmscan.org/the-fuse-chain/fuse-token)
+The Layer token aka LAYER is the internal currency of the Layer.  Those validating the network are paid in LAYER. This aligns the incentives between the validators and the network users. Learn more about LAYER tokenomics: [https://docs.layerscan.org/the-fuse-chain/fuse-token](https://docs.layerscan.org/the-fuse-chain/fuse-token)
 
 ## **Is there any reason for me to have LAYER?** 
 

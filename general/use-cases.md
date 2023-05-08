@@ -24,7 +24,7 @@ The key advantages of using Layer technology for powering customer rewards are a
 
 ## A Festival Payments Token
 
-In November 2020, Bitazza used Layer Studio to issue the [MYST](https://explorer.prmscan.org/address/0x510FAD1AD23064Ae881B129314EFdD9FDa6d4782/transactions) payments token on Layer for the Mystic Valley Festival in Thailand. They also forked Layer Wallet to create a customized mobile app for the festival. 
+In November 2020, Bitazza used Layer Studio to issue the [MYST](https://explorer.layerscan.org/address/0x510FAD1AD23064Ae881B129314EFdD9FDa6d4782/transactions) payments token on Layer for the Mystic Valley Festival in Thailand. They also forked Layer Wallet to create a customized mobile app for the festival. 
 
 The app and token seamlessly powered the more than 15 thousand transactions made by attendees during the 3-day event. 
 

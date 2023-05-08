@@ -52,7 +52,7 @@ Trust Wallet (Binance Smart Chain)
 
 [Layer Staking](exchanges-wallets-on-ramps-and-defi-tools-supporting-fuse.md#exchanges)
 
-[Layer Rewards](https://rewards.prmscan.org)
+[Layer Rewards](https://rewards.layerscan.org)
 
 [Layer Lending Network](https://app.ola.finance/networks/0x26a562B713648d7F3D1E1031DCc0860A4F3Fa340/markets)
 
