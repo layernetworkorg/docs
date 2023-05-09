@@ -1,17 +1,17 @@
 # Stake, Delegate and Withdraw
 
-The basic requirement to become a Layer chain validator is to have a stake amount of at least 100,000 Layer tokens. The stake amount is the sum of staked and delegated Layer tokens of the address. This guide walks trough the process of using MEW (MyEtherWallet.com) in the process of using Layer network.**Roadmap** - Those functionalities will be built into our Studio and will not require any technical knowledge in the future.
+The basic requirement to become a Layer chain validator is to have a stake amount of at least 1,250,000 Layer tokens. The stake amount is the sum of staked and delegated Layer tokens of the address. This guide walks trough the process of using MEW (MyEtherWallet.com) in the process of using Layer network. **Roadmap** - Those functionalities will be built into our Studio and will not require any technical knowledge in the future.
 
 ## Stake <a href="#stake" id="stake"></a>
 
 There are two options to stake (both should be called from the address which would be the validator)
 
-1. 1.Send Layer tokens to the [consensus contract](https://layerscan.org/address/0x3014ca10b91cb3d0ad85fef7a3cb95bcac9c0f79) - 0x849cb7e7929DFedd35F66a3F0445C4B7c035fB91 on the fuse network.
-2. 2.Call the \`stake\` function on the [consensus contract](https://layerscan.org/address/0x3014ca10b91cb3d0ad85fef7a3cb95bcac9c0f79) - 0x849cb7e7929DFedd35F66a3F0445C4B7c035fB91 on the fuse network.
+1. 1.Send Layer tokens to the [consensus contract](https://layerscan.org/address/0x76de9222AD65Ab0d491De1A06d29fF33A3870Bd8) - 0x76de9222AD65Ab0d491De1A06d29fF33A3870Bd8 on the Layer network.
+2. 2.Call the \`stake\` function on the [consensus contract](https://layerscan.org/address/0x76de9222AD65Ab0d491De1A06d29fF33A3870Bd8) - 0x76de9222AD65Ab0d491De1A06d29fF33A3870Bd8 on the Layer network.
 
 ## Delegate <a href="#delegate" id="delegate"></a>
 
-Layer token holders who don't want to run a node by themselves but still wish to participate in governing the network can delegate any amount to one of the validators.Delegating is done by calling the \`delegate\` function on the [consensus contract](https://layerscan.org/address/0x3014ca10b91cb3d0ad85fef7a3cb95bcac9c0f79) with the validator address as data (see screenshot from MEW).
+Layer token holders who don't want to run a node by themselves but still wish to participate in governing the network can delegate any amount to one of the validators.Delegating is done by calling the \`delegate\` function on the [consensus contract](https://layerscan.org/address/0x76de9222AD65Ab0d491De1A06d29fF33A3870Bd8) with the validator address as data (see screenshot from MEW).
 
 ![delegate](https://3886961007-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MQROvzQPC4eD8u5AQhv%2Fuploads%2FfW2bi43f3TMgmwzi7wSZ%2Fimage.png?alt=media\&token=f30eb8a1-ff40-4f1e-9f73-89466ea2c83e)
 
@@ -19,8 +19,8 @@ Layer token holders who don't want to run a node by themselves but still wish to
 
 Both stakers and validators can withdraw their Layer tokens, up to the staked/delegated amount, at any time. The withdrawn amount will be deducted from the validator stake amount, and if the stake amount becomes below the minimum stake amount - the validator will be removed from the Layer chain validators list.There are two options to withdraw:
 
-1. 1.Call the \`withdraw\` function on the [consensus contract](https://layerscan.org/address/0x3014ca10b91cb3d0ad85fef7a3cb95bcac9c0f79) with one parameter - the amount to withdraw. This call is for stakers, and will reduce the stake amount of the sender address.
-2. 2.Call the \`withdraw\` function on the [consensus contract](https://layerscan.org/address/0x3014ca10b91cb3d0ad85fef7a3cb95bcac9c0f79) with two parameters - validator address and amount to withdraw. This call is for both stakers (who can use their own address as the parameter) and for delegators to withdraw their delegated stake on a specific validator.
+1. 1.Call the \`withdraw\` function on the [consensus contract](https://layerscan.org/address/0x76de9222AD65Ab0d491De1A06d29fF33A3870Bd8) with one parameter - the amount to withdraw. This call is for stakers, and will reduce the stake amount of the sender address.
+2. 2.Call the \`withdraw\` function on the [consensus contract](https://layerscan.org/address/0x76de9222AD65Ab0d491De1A06d29fF33A3870Bd8) with two parameters - validator address and amount to withdraw. This call is for both stakers (who can use their own address as the parameter) and for delegators to withdraw their delegated stake on a specific validator.
 
 ![withdraw option no. 1](https://3886961007-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MQROvzQPC4eD8u5AQhv%2Fuploads%2FyBpFV4W9N9vgpGyFEr76%2Fimage.png?alt=media\&token=0f715110-4b8d-4a35-81a6-93383d903f42)
 

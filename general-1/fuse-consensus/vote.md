@@ -4,7 +4,7 @@ Layer chain functionality can be change by voting on the contracts implementatio
 
 ## Open a new ballot
 
-In order to open a new vote, a validator needs to call the \`newBallot\` function on the [voting contract](https://layerscan.org/address/0xCa8518B84f32F8BC61e390c8CF339986D1DdE727) with the following params:
+In order to open a new vote, a validator needs to call the \`newBallot\` function on the [voting contract](https://layerscan.org/address/0xC541163B650749Bc7Fac4e2c32C9F791E2B0da9a) with the following params:
 
 * startAfterNumberOfCycles - number of cycles (minimum 1) after which the ballot is open for voting
 * cyclesDuration - number of cycles (minimum 2) for the ballot to remain open for voting
@@ -40,9 +40,7 @@ Voting is done by calling the \`vote\` function, which receives two params:
 
 ![vote](../../.gitbook/assets/image.png)
 
-
-
-Some other useful functions on the [voting contract](https://layerscan.org/address/0xCa8518B84f32F8BC61e390c8CF339986D1DdE727) are:
+Some other useful functions on the [voting contract](https://layerscan.org/address/0xC541163B650749Bc7Fac4e2c32C9F791E2B0da9a) are:
 
 ## getQuorumState
 

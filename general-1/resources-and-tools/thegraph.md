@@ -19,4 +19,4 @@ Subgraphs that builded and maintained by the Layer team, deployed on Layer inter
 
 ### Layer Consensus
 
-on Layer graph-node: [https://thegraph.layerscan.org/subgraphs/name/faktchain/fakt-consensus](https://thegraph.layerscan.org/subgraphs/name/faktchain/fakt-consensus)
+on Layer graph-node: [https://thegraph.layerscan.org/subgraphs/name/layerchain/layer-consensus](https://thegraph.layerscan.org/subgraphs/name/layerchain/layer-consensus)

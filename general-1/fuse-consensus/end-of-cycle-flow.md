@@ -27,10 +27,3 @@ Note that only one validator can make this call successfully so the 1st one succ
 
 Note that if the new validator set transactions fail on mainnet there’s a chance the minting will fails as well, because before transmitting it checks if all signatures are valid and there can be a situation where new validators were added on a cycle and were fast enough to submit their signatures on primal end-of-cycle transactions but weren’t updated on mainnet due to failure of the 1st transactions so the 2nd one will actually contain “invalid” signatures from the mainnet perspective.
 
-
-
-Example for a successful flow (from 7/6/2020)
-
-1. Consensus.emitInitiateChange transaction on primal - [https://layerscan.org/tx/0x441e2cb5f4aa20948c51020ebd8f7fba7c33cf909e31c66d0aff4a11e79ce13d](https://layerscan.org/tx/0x441e2cb5f4aa20948c51020ebd8f7fba7c33cf909e31c66d0aff4a11e79ce13d)
-2. BlockReward.emitRewardedOnCycle transaction on primal - [https://layerscan.org/tx/0x34cf4ddfc8afa6154e8c0d5f1de3b7d756b1b0517e8f0efd5794bde40983ba64](https://layerscan.org/tx/0x34cf4ddfc8afa6154e8c0d5f1de3b7d756b1b0517e8f0efd5794bde40983ba64)
-

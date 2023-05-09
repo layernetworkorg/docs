@@ -2,4 +2,4 @@
 
 ## Run Local Node
 
-Read more at: [https://github.com/Layer-LAYER/PRMNetwork/tree/master/node-example](https://github.com/Layer-LAYER/PRMNetwork/tree/master/node-example)
+Read more at: [https://github.com/layernetworkorg/LayerNetwork/tree/master/node-example](https://github.com/layernetworkorg/LayerNetwork/tree/master/node-example)

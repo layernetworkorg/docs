@@ -45,9 +45,6 @@
   * [End-of-Cycle Flow](general-1/fuse-consensus/end-of-cycle-flow.md)
   * [Contract Addresses](general-1/fuse-consensus/contract-addresses.md)
 * [How to run network nodes](general-1/how-to-run-network-nodes.md)
-* [Resources & Tools](general-1/resources-and-tools/README.md)
-  * [TheGraph](general-1/resources-and-tools/thegraph.md)
-  * [WalletConnect on Layer](general-1/resources-and-tools/walletconnect-on-fuse.md)
 * [Important smart contracts](general-1/important-smart-contracts/README.md)
   * [Layer Token](general-1/important-smart-contracts/layer-token.md)
   * [Layer Dollar](general-1/important-smart-contracts/layer-dollar.md)
@@ -61,7 +58,8 @@
     * [Ethereum ↔ Layer Native](general-1/important-smart-contracts/bridges/ethereum-layer-native.md)
 * [How to become a validator](general-1/how-to-become-a-validator/README.md)
   * [Getting started as a validator](general-1/how-to-become-a-validator/getting-started-as-a-validator.md)
-  * [Getting started as on the Spark testnet](general-1/how-to-become-a-validator/getting-started-as-on-the-spark-testnet.md)
+* [Resources & Tools](general-1/resources-and-tools/README.md)
+  * [TheGraph](general-1/resources-and-tools/thegraph.md)
 
 ## Links
 
